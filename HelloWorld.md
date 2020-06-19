@@ -1,3 +1,2 @@
-## This is a R Markdown file
-## Testing
-## Testing again
+## This is a Markdown file
+
